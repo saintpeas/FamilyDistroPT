@@ -7,7 +7,7 @@ Statistical distribution analysis of Formula 1 pit-stop data, modelled on the Ka
 
 ## Demo
 
-> [Explanation Video](https://drive.google.com/file/d/FILE_ID/view?usp=sharing)
+> [Explanation Video](https://drive.google.com/file/d/1RXz16daN6psiCILpwRj6t4ObsP9yvTDm/view?usp=sharing)
 
 ---
 
