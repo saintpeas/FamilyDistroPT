@@ -41,7 +41,7 @@ Synthetic — generated with `numpy` to mirror real F1 pit-stop structure.
 | `safety_car_stop` | Binomial | n = 1, p = 0.25 |
 | `tyre_compound` | Uniform | integers 1–5 (Soft/Med/Hard/Inter/Wet) |
 
-> Based on: [Predicting F1 Pit Stops — Kaggle](https://www.kaggle.com/)
+> Based on: [Predicting F1 Pit Stops — Kaggle](https://www.kaggle.com/datasets/anthonytherrien/predicting-f1-pit-stops-vault)/)
 
 ---
 
